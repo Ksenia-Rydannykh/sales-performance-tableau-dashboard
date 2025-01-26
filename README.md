@@ -1,4 +1,4 @@
-# Store Sales Performance Dashboard  
+# Sales Performance Tableau Dashboard  
 
 ## Overview  
 This project showcases an interactive **Tableau dashboard** analyzing store sales performance. The dashboard provides key insights into **sales, profit, orders, and customer trends** across multiple dimensions.  
